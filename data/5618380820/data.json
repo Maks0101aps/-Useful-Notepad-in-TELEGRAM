@@ -1,0 +1,17 @@
+{
+  "folders": {
+    "root": {
+      "name": "Root folder",
+      "notes": {}
+    },
+    "folder_1748353576835": {
+      "name": "MSD",
+      "notes": {}
+    }
+  },
+  "currentFolder": "root",
+  "settings": {
+    "encryptionEnabled": true,
+    "encryptionKey": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e"
+  }
+}
